@@ -1,4 +1,10 @@
 Kapan terakhir kali kamu dapat tertidur tenang
+<<<<<<< HEAD
 Tak perlu memikirkan tentang apa yang akan datang di esok hari
 Tubuh yang berpatah hati bergantung pada gaji
 Berlomba jadi asri mengais validasi
+=======
+Tak perlu memikirkan tentang apa yang akan datang
+Berlomba jadi asri mengais validasi
+Tubuh yang berpatah hati bergantung pada gaji
+>>>>>>> 237d908a547e232d1eab3eb51a21be2d0621d58c
