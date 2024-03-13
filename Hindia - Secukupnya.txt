@@ -1,6 +1,10 @@
 Kapan terakhir kali kamu dapat tertidur tenang
 <<<<<<< HEAD
+<<<<<<< HEAD
 Berlomba jadi asri mengais validasi
+=======
+Tak perlu memikirkan tentang apa yang akan datang
+>>>>>>> e804e3a785ee112e0f03e17a80d051e15f2d3bb5
 =======
 Tubuh yang berpatah hati bergantung pada gaji
 >>>>>>> 2b0d6c06a0488d9a340674aa22cca330dd295112
